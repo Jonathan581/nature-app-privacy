@@ -1,1 +1,1 @@
-# nature-app-privacy
+# Video Gen app privacy
